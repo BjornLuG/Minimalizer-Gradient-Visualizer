@@ -13,7 +13,7 @@ A gradient visualizer for Rainmeter
 3. The blurred background is made with [FrostedGlass](https://github.com/TheAzack9/FrostedGlass), and is not included in the skin either.
 
 ## Credits
-1. [ProteusChroma](https://www.deviantart.com/minervaxcel/art/ProteusChroma-v1-0-684655618) by [\u\Minarvaxcel](https://www.reddit.com/user/Minervaxcel) for the inspiration!
+1. [ProteusChroma](https://www.deviantart.com/minervaxcel/art/ProteusChroma-v1-0-684655618) by [/u/Minarvaxcel](https://www.reddit.com/user/Minervaxcel) for the inspiration!
 2. [FrostedGlass](https://github.com/TheAzack9/FrostedGlass) for the blurring illustration.
 3. [Monstercat Visualizer](https://github.com/marcopixel/Monstercat-Visualizer) for some of the scripts and techniques.
 
